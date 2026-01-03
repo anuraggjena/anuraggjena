@@ -140,7 +140,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggjena&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuraggjena&theme=react-dark)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuraggjena&theme=react-dark)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
