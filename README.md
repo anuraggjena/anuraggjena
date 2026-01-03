@@ -28,12 +28,9 @@
 
 ---
 
-<div align="center">
-
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Anurag Jena</h1>
-<h3 align="center">A passionate Full-Stack Developer/h3>
+<h2>Hi 👋, I'm Anurag Jena</h1>
 
 - 🔭 I’m currently working on **AI-powered full-stack web apps with LLMs integrations and RAG pipelines.**
   
@@ -42,8 +39,8 @@
 - 👯 I’m looking to collaborate on **Full-stack projects with real-world impact.**
 
 - ⚡ Fun fact **The first Apple logo showed Sir Isaac Newton under an apple tree.**
-  
-</div>
+
+---
 
 # 🛠️ Tech Stacks
 
