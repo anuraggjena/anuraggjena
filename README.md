@@ -42,7 +42,7 @@
 
 ---
 
-# 🛠️ Tech Stacks
+## 🛠️ Tech Stacks
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   
@@ -147,7 +147,7 @@
 
 </div>
 
-## 📫 Let's Collaborate!
+# 📫 Let's Collaborate!
 
 <div align="center">
 
