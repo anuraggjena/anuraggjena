@@ -9,11 +9,11 @@
 <!-- Social Badges -->
 <p>
   <a href="https://leetcode.com/u/anuraggjena/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&animation=flash&textAlignment=horizontal&showText=true&link=https%3A%2F%2Fleetcode.com%2Fu%2Fanuraggjena" alt="leetcode" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="leetcode" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anuraggjena/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&animation=flash&textAlignment=horizontal&showText=true&link=https%3A%2F%2Flinkedin.com%2Fin%2Fanuraggjena" alt="linkedin" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:anuragjena4@gmail.com">
@@ -21,7 +21,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://anuraggjena.vercel.app/">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=webpack&size=40&animation=flash&textAlignment=horizontal&showText=true&text=Portfolio&link=https%3A%2F%2Fanuraggjena.vercel.app%2F" alt="webpack" /></a>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=webpack&size=40&animation=flash&textAlignment=horizontal&showText=true&text=Portfolio" alt="webpack" /></a>
 </p>
 
 </div>
