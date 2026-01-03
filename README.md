@@ -101,7 +101,7 @@
 
 🔹 Generates personalized projects and daily challenges
 
-🔹 RAG-based recommendations, increasing relevance accuracy by 35% 
+🔹 Increasing relevance accuracy by 35%
 
 🔹 Scalable architecture with API latency under 200ms
 
@@ -123,7 +123,7 @@
 
 🔹 End-to-end SaaS workflow supporting concurrent users  
 
-**Tech:** Next.js, PostgreSQL, Transformer Models, RAG, Drizzle ORM
+**Tech:** Next.js, PostgreSQL, Transformer Models, OpenAI, Drizzle ORM
 
 </td>
 </tr>
@@ -153,10 +153,10 @@
 
 **I'm always open to:**
 
-- 🚀 Learning and upskilling
-- 🤝 Collaborating on AI and full-stack projects
-- 💡 Turning ideas into working products
-- 🎯 New opportunities and Challenges
+🚀 Learning and upskilling
+🤝 Collaborating on AI and full-stack projects
+💡 Turning ideas into working products
+🎯 New opportunities and Challenges
 
 ### 📧 Reach me at: [anuragjena14@gmail.com](mailto:anuragjena14@gmail.com)
 
