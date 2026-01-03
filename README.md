@@ -1,9 +1,7 @@
 <div align="center">
 
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B40D08&center=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Integrations+%7C+Scalable+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B40D08&center=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Integrations+%7C+Scalable+Web+Apps)](https://git.io/typing-svg)&nbsp;&nbsp;<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ### Socials:
 <!-- Social Badges -->
