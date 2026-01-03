@@ -5,19 +5,23 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B40D08&center=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Integrations+%7C+Scalable+Web+Apps)](https://git.io/typing-svg)
 
+### Socials:
 <!-- Social Badges -->
 <p>
   <a href="https://leetcode.com/u/anuraggjena/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=96" alt="leetcode" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=70" alt="leetcode" />
   </a>
+  
   <a href="https://www.linkedin.com/in/anuraggjena/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=70" alt="linkedin" />
   </a>
+  
   <a href="mailto:anuragjena4@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&color=%2310b981" alt="gmail" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=70&color=%2310b981" alt="gmail" />
   </a>
+  
   <a href="https://anuraggjena.vercel.app/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=googlechrome&size=96&color=%23ef4444" alt="googlechrome" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=googlechrome&size=70&color=%23ef4444" alt="googlechrome" />
   </a>
 </p>
 
@@ -28,7 +32,7 @@
 <div align="center">
 
 # 💫 About Me:
-```
+
 <h1 align="center">Hi 👋, I'm Anurag Jena</h1>
 <h3 align="center">A passionate Full-Stack Developer/h3>
 
@@ -39,7 +43,7 @@
 - 👯 I’m looking to collaborate on **Full-stack projects with real-world impact.**
 
 - ⚡ Fun fact **The first Apple logo showed Sir Isaac Newton under an apple tree.**
-```
+  
 </div>
 
 # 🛠️ Tech Stacks
@@ -100,7 +104,9 @@
 **AI-Powered Skill Intelligence Platform**
 
 🔹 Generates personalized projects and daily challenges
+
 🔹 RAG-based recommendations, increasing relevance accuracy by 35% 
+
 🔹 Scalable architecture with API latency under 200ms
 
 **Tech:** Next.js, PostgreSQL, Vector Embeddings, OpenAI
@@ -116,7 +122,9 @@
 **AI-Based Proposal Generation SaaS**
 
 🔹 Generates context-aware Job Proposals
+
 🔹 Semantic job-to-profile matching with embeddings  
+
 🔹 End-to-end SaaS workflow supporting concurrent users  
 
 **Tech:** Next.js, PostgreSQL, Transformer Models, RAG, Drizzle ORM
@@ -136,7 +144,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggjena&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuarggjena&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff" width="100%"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuraggjena&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
