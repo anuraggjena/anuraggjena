@@ -27,7 +27,21 @@
 </div>
 
 ---
+<table border="0">
+ <tr>
+    <td><b style="font-size:24px">Hi 👋, I'm Anurag Jena</b></td>
+    <td><img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></td>
+ </tr>
+ <tr>
+    <td>- 🔭 I’m currently working on **AI-powered full-stack web apps with LLMs integrations and RAG pipelines.**
+  
+- 🌱 I’m currently learning **Data Structures & Algorithms, System design, and AI agents**
 
+- 👯 I’m looking to collaborate on **Full-stack projects with real-world impact.**
+
+- ⚡ Fun fact **The first Apple logo showed Sir Isaac Newton under an apple tree.**</td>
+ </tr>
+</table>
 # 💫 About Me:
 
 <h2>Hi 👋, I'm Anurag Jena</h1>
@@ -140,7 +154,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggjena&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuraggjena&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuraggjena&theme=react-dark)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -154,8 +168,11 @@
 **I'm always open to:**
 
 🚀 Learning and upskilling
+
 🤝 Collaborating on AI and full-stack projects
+
 💡 Turning ideas into working products
+
 🎯 New opportunities and Challenges
 
 ### 📧 Reach me at: [anuragjena14@gmail.com](mailto:anuragjena14@gmail.com)
