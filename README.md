@@ -9,20 +9,19 @@
 <!-- Social Badges -->
 <p>
   <a href="https://leetcode.com/u/anuraggjena/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=70" alt="leetcode" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&animation=flash&textAlignment=horizontal&showText=true&link=https%3A%2F%2Fleetcode.com%2Fu%2Fanuraggjena" alt="leetcode" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anuraggjena/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=70" alt="linkedin" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&animation=flash&textAlignment=horizontal&showText=true&link=https%3A%2F%2Flinkedin.com%2Fin%2Fanuraggjena" alt="linkedin" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="mailto:anuragjena4@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=70&color=%2310b981" alt="gmail" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="gmail" />
   </a>
-  
-  <a href="https://anuraggjena.vercel.app/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=googlechrome&size=70&color=%23ef4444" alt="googlechrome" />
-  </a>
+  &nbsp;&nbsp;
+  <a href="https://anuraggjena.vercel.app/">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=webpack&size=40&animation=flash&textAlignment=horizontal&showText=true&text=Portfolio&link=https%3A%2F%2Fanuraggjena.vercel.app%2F" alt="webpack" /></a>
 </p>
 
 </div>
