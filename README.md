@@ -27,21 +27,7 @@
 </div>
 
 ---
-<table border="0">
- <tr>
-    <td><b style="font-size:24px">Hi 👋, I'm Anurag Jena</b></td>
-    <td><img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></td>
- </tr>
- <tr>
-    <td>- 🔭 I’m currently working on **AI-powered full-stack web apps with LLMs integrations and RAG pipelines.**
-  
-- 🌱 I’m currently learning **Data Structures & Algorithms, System design, and AI agents**
 
-- 👯 I’m looking to collaborate on **Full-stack projects with real-world impact.**
-
-- ⚡ Fun fact **The first Apple logo showed Sir Isaac Newton under an apple tree.**</td>
- </tr>
-</table>
 # 💫 About Me:
 
 <h2>Hi 👋, I'm Anurag Jena</h1>
